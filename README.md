@@ -1,4 +1,5 @@
-# Regression with Python · Taxi Trips
+# Regression with Python · Taxi Fares
+
 
 **Context**
 
