@@ -7,7 +7,7 @@ The data consulting firm has recently hired me as the newest member of their dat
 
 **Skills**
 
-Building a Multiple Linear Regression model in accordance with PACE framework (Plan, Analyze, Construct, Execute)  
+Building a Linear Regression model in accordance with PACE framework (Plan, Analyze, Construct, Execute)  
 EDA, Data Wrangling, Data Validation, Data Visualization  
 Feature engineering for ML  
 Presenting modeling results and model performance details  
