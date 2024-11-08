@@ -1,13 +1,17 @@
-# Regression with Python · Taxi Fares
+# Linear Regression with Python · Predicting NYC Taxi Fares
 
+### Project Overview
 
-**Context**
+Built a multiple Linear Regression model to predict NYC taxi fares for the NYC Taxi and Limousine Commission, applying the PACE framework (Plan, Analyze, Construct, Execute). Conducted exploratory data analysis, data wrangling, validation, and feature engineering to ensure model accuracy, and presented key insights and performance metrics.
 
-The data consulting firm has recently hired me as the newest member of their data analytics team. Their newest client, the NYC Taxi and Limousine Commission (New York City TLC), wants the team to build a multiple linear regression model to predict taxi fares using existing data that was collected over the course of a year.
+### Key Skills
 
-**Skills**
+Building a Linear Regression model with PACE framework, EDA, data wrangling, data validation, data visualization, feature engineering for ML, presenting model results and performance metrics.
 
-Building a Linear Regression model in accordance with PACE framework (Plan, Analyze, Construct, Execute)  
-EDA, Data Wrangling, Data Validation, Data Visualization  
-Feature engineering for ML  
-Presenting modeling results and model performance details  
+### Описание проекта
+
+Построена модель множественной Линейной Регрессии для предсказания стоимости поездок на такси в Нью-Йорке на основе данных Комиссии по такси и лимузинам (TLC). Применён подход PACE (Plan, Analyze, Construct, Execute), проведены исследовательский анализ данных, валидация, инженерия признаков для повышения точности модели, а также представлены результаты и ключевые метрики производительности.
+
+### Ключевые навыки
+
+Построение модели Линейной Регрессии с использованием фреймворка PACE (Plan, Analyze, Construct, Execute), исследовательский анализ данных, очистка и валидация данных, визуализация данных, инженерия признаков для машинного обучения, представление результатов и оценка производительности модели.
